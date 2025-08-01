@@ -13,6 +13,7 @@ A beginner-friendly Java console application that allows users to add, search, d
 ## Project Structure
 
 WordDictionaryApp.java   // main logic
+
 WordBook.java            // dictionary logic
 
 ## Preview
